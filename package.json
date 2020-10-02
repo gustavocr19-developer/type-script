@@ -1,0 +1,23 @@
+{
+  "name": "type-script",
+  "version": "1.0.0",
+  "description": "Some simulations with TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gustavocr19-developer/type-script.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gustavocr19-developer/type-script/issues"
+  },
+  "homepage": "https://github.com/gustavocr19-developer/type-script#readme",
+  "devDependencies": {
+    "typescript": "^4.0.3"
+  }
+}
